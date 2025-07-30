@@ -1,0 +1,12 @@
+pywhatkit
+schedule
+python-dotenv 
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+requests
+flake8
+black
+isort
+mypy
